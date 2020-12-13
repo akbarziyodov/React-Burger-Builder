@@ -1,0 +1,10 @@
+.DrawerToggle{
+    color: #fff;
+    font-weight: bold;
+}
+
+@media (min-width: 500px) {
+    .DrawerToggle{
+        display: none;
+    }
+}
